@@ -8,7 +8,7 @@ Fitur Instagram Terbaru
 
 Instagram saat ini telah menjadi salah satu platform media sosial populer. Terlebih lagi ada banyak fitur baru di Instagram yang membuat penggunanya semakin dimanjakan. Sehingga popularitas media sosial satu ini semakin meningkat.
 
-Tingkat kepopuleran Instagram bahkan mampu menyaingi Facebook yang lebih dulu hadir. Begutu juga pengguna Instagram di Indonesia, terutama dari generasi remaja. Mereka lebih menyukai aplikasi ynag terkenal dengan foto-foto selfie ini.
+Tingkat kepopuleran Instagram bahkan mampu menyaingi Facebook yang lebih dulu hadir. Begutu juga pengguna Instagram di Indonesia, terutama dari generasi remaja. Mereka lebih menyukai aplikasi yang terkenal dengan foto-foto selfie ini.
 
 8 Fitur Baru di Instagram di Tahun 2021
 ====================
@@ -25,7 +25,7 @@ Fitur dasbor profesional ini hanya bisa diakses oleh akun Instagram bisnis dan a
 Stiker untuk Instagram Story
 ----------------------
 
-Instagram telah menambahkan banyak stiker baru pada bagian IG Story termasuk support untuk tools Story saver (lebih lanjut baca disini: https://www.sebuahutas.com/2022/01/story-saver-download-video-instagram.html). Tujuannya agar pengguna dapat menambahkan stiker tersebut untuk berbagai pengalaman seru. Stiker yang ditambahkan antara lain adalah:
+Instagram telah menambahkan banyak stiker baru pada bagian IG Story termasuk support untuk tools Story saver (lebih lanjut baca disini: https://www.sebuahutas.com/2022/04/story-saver-download-video-instagram.html). Tujuannya agar pengguna dapat menambahkan stiker tersebut untuk berbagai pengalaman seru. Stiker yang ditambahkan antara lain adalah:
 
 - Stiker tantangan
 - Stiker stay at home
@@ -80,3 +80,13 @@ Mungkin Anda telah menyadari bahwa ada beberapa pengikut yang hilang. Bisa juga 
 Fitur baru di Instagram ini akan memberikan saran bagi tiap pengguna untuk berhenti mengikuti beberapa akun yang dinilai kurang berinteraksi. Ada dua pilihan yang diberikan, yakni: ‘paling tidak berinteraksi dengan’ atau ‘paling banyak tampil di pratinjau’. Orang yang paling tidak banyak berinteraksi itulah yang akan di-unfollow. Untuk alasan keamanan, hendaknya kamu juga mempelajari cara melihat password instagram di artikel berikut ini: https://www.emzeth.com/cara-mengetahui-password-ig-yang-lupa-dan-solusi-memulihkannya/ 
 
 Demikian 8 fitur baru di Instagram yang sengaja ditambahkan untuk memberikan pengalaman baru pada para pengguna. Selain berinteraksi dengan teman di dunia maya, Anda juga dapat berbisnis menggunakan fitur yang ada. 
+
+********
+Contents
+********
+
+.. toctree::
+   :maxdepth: 2
+
+   style-guide
+   vidmate/index
