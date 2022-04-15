@@ -10,15 +10,25 @@ Instagram saat ini telah menjadi salah satu platform media sosial populer. Terle
 
 Tingkat kepopuleran Instagram bahkan mampu menyaingi Facebook yang lebih dulu hadir. Begutu juga pengguna Instagram di Indonesia, terutama dari generasi remaja. Mereka lebih menyukai aplikasi yang terkenal dengan foto-foto selfie ini.
 
-8 Fitur Baru di Instagram di Tahun 2021
-====================
+Seiring berjalannya waktu, Instagram selalu melakukan perkembangan terhadap aplikasinya. Sebagai pengguna setiap aplikasi Instagram, Anda tentu tidak ingin ketinggalan informasi tentang fitur terbaru Instagram, bukan? Fitur-fitur ini merupakan fitur yang akan memberikan Anda kemudahan untuk berkomunikasi dan bereksplorasi menggunakan Instagram. 
 
-Tercatat lebih dari 1 miliar pengguna setia Instagram, angka tersebut pun diprediksi akan terus bertambah. Instagram pun terus melakukan perombakan agar pengguna aplikasi mereka tidak berpaling ke media sosial lain. Meski sempat memutuskan menghapus beberapa fitur lama, kini ditambahkan 8 fitur baru di Instagram termasuk dukungan terhadap tools `InstaDP <https://www.sebuahutas.com/2022/03/instadp-untuk-lihat-foto-profil-ig.html>`_. Berikut adalah beberapa fitur yang baru ditambahkan pada tahun 2021:
+Setidaknya terdapat beberapa buah fitur baru yang siap pengguna nikmati pada akhir tahun lalu. Berita baiknya fitur-fitur tersebut sudah siap dirilis secara global sehingga Anda bisa menikmatinya. 
+
+Fitur Terbaru Instagram, Sudahkah Anda Tahu?
+------------------
+
+Nah, berikut ini adalah ulasan serta penjelasan dari ketiga fitur tersebut. Anda pastinya sudah tidak sabar lagi untuk mencoba fitur terbaru dari Instagram ini, kan?
+
+
+8 Fitur Baru di Instagram di Tahun 2022
+------------------
+
+Tercatat lebih dari 1 miliar pengguna setia Instagram, angka tersebut pun diprediksi akan terus bertambah. Instagram pun terus melakukan perombakan agar pengguna aplikasi mereka tidak berpaling ke media sosial lain. Meski sempat memutuskan menghapus beberapa fitur lama, kini ditambahkan 8 fitur baru di Instagram termasuk dukungan terhadap tools `InstaDP <https://www.sebuahutas.com/2022/03/instadp-untuk-lihat-foto-profil-ig.html>`_. Berikut adalah beberapa fitur yang baru ditambahkan pada tahun 2022:
 
 Professional Dashboard
 ----------------------
 
-Di awal tahun 2021, Instagram telah memperkenalkan fitur terbaru yang disebut dengan professional dashboard. Dasbor profesional itu bisa dikunjungi pada profil pengguna Instagram, tepatnya di bagian atas. Meski dikatakan fitur baru di Instagram, tetapi sebenarnya dasbor profesional ini hanya mengumpulkan beberapa fitur yang telah ada ke dalam satu bagian saja.
+Di awal tahun 2022, Instagram telah memperkenalkan fitur terbaru yang disebut dengan professional dashboard. Dasbor profesional itu bisa dikunjungi pada profil pengguna Instagram, tepatnya di bagian atas. Meski dikatakan fitur baru di Instagram, tetapi sebenarnya dasbor profesional ini hanya mengumpulkan beberapa fitur yang telah ada ke dalam satu bagian saja.
 
 Fitur dasbor profesional ini hanya bisa diakses oleh akun Instagram bisnis dan akun Instagram kreator. Jadi pengguna bisa mengatur Instagram shopping, promosi, insight, kemitraan dan berbagai fitur lain tanpa repot membuka halaman lain. Pengguna juga bisa menggunakan sumber informasi dan artikel bagaimana cara berbisnis yang telah disediakan oleh Instagram.
 
@@ -42,7 +52,7 @@ Facebook Shop
 Facebook telah banyak membawa perubahan di e-commerce dengan berbagai gebrakan terbaru mereka. Salah satunya dengan meluncurkan Facebook shop yang dapat diakses menggunakan Facebook atau melalui Instagram. Pemilik akun bisnis pun dapat mengembangkan katalog mereka yang sesuai dengan bisnis masing-masing.
 Pengguna akun tinggal memilih produk yang akan diiklankan. Lalu menambahkan sampul menarik serta tema yang mampu meningkatkan daya tarik produk tersebut pada pembeli. Fitur ini diklaim dapat mendongkrak penjualan.
 
-Dengan adanya fitur baru di Instagram Shop, para pembeli tidak perlu lagi keluar dari aplikasi jika ingin berbelanja. Apalagi ada katalog produk yang semakin memudahkan calon pembeli. Facebook shop kini bisa digunakan di Indonesia, sebelumnya hanya bisa dinikmati oleh pengguna dari luar negeri.
+Dengan adanya fitur baru di IG Shopping termasuk di aplikasi `Instander <https://www.sebuahutas.com/2022/03/download-instander-apk-mod-instagram.html>`_ Instagram Mod APK, para pembeli tidak perlu lagi keluar dari aplikasi jika ingin berbelanja. Apalagi ada katalog produk yang semakin memudahkan calon pembeli. Facebook shop kini bisa digunakan di Indonesia, sebelumnya hanya bisa dinikmati oleh pengguna dari luar negeri.
 
 Mengunggah Foto di Banyak Akun
 ----------------------
