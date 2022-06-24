@@ -100,3 +100,4 @@ Contents
 
    style-guide
    vidmate/index
+   filter-ig/index
