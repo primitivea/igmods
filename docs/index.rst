@@ -101,3 +101,4 @@ Contents
    style-guide
    vidmate/index
    filter-ig/index
+   igtools/index
